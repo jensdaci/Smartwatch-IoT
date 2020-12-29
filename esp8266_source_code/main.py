@@ -8,6 +8,7 @@ Class Title: IoT - Intelligent and Connected Systems
 
 Assignment:  Lab 6 - Smartwatch
 """
+
 from machine import Pin, I2C, RTC, ADC, PWM, Timer
 import time
 import socket
