@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ckpt1</string>
+    <string name="action_settings">Settings</string>
+    <string name="press_to_speak">PRESS TO SPEAK</string>
+    <string name="speech_label">Speech Results</string>
+    <string name="receive_from_esp_label">Received from ESP8266</string>
+</resources>
