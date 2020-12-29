@@ -1,7 +1,7 @@
 """
 Group 9:     Jens Daci 
-			 Endric Daues
-			 Daniel Klass
+	     Endric Daues
+	     Daniel Klass
 
 Class Code:  EECS E4764
 Class Title: IoT - Intelligent and Connected Systems
